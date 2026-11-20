@@ -1,4 +1,4 @@
-# Oasis Infobyte Data Analytics Internship
+OIBSIP
 Welcome to my GitHub repository!
 This repository contains my tasks, projects, and learning progress during my Data Analytics Internship at Oasis Infobyte.
 ## About Me
